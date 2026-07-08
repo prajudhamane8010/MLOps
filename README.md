@@ -27,11 +27,6 @@ MLOps/
 pip install -r requirements.txt
 python main.py
 ```
-## 📸 Project Output
-
-![Project Output](images/output.png)
-
-
 ## 📌 Future Improvements
 - Add data preprocessing
 - Train a machine learning model
@@ -41,3 +36,7 @@ python main.py
 
 ## 👨‍💻 Author
 **Pranjal Dhamane**
+
+## 📸 Project Output
+
+![Project Output](images/output.png)
